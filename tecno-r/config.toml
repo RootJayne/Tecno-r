@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Tecno-r"
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Contacto"
+    title = "Contacto"
+    url = "/Contacto/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
